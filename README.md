@@ -7,7 +7,10 @@
 </p>
  -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manoj+Dhundhalva+%F0%9F%91%8B" alt="Typing SVG" />
+  <!-- Typing text in monospace -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Manoj+Dhundhalva" alt="Typing SVG" />
+  <!-- Waving gif -->
+  <img src="./assets/wave.gif" width="80" />
 </p>
 
 
@@ -152,9 +155,4 @@
 <!-- Fun: contribution snake (enable the Action below) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ManojDhundhalva/ManojDhundhalva/output/snake.svg" alt="snake animation"/>
-</p>
-
-<!-- Footer GIF -->
-<p align="center">
-  <img src="./assets/wave.gif" width="100" />
 </p>
