@@ -13,7 +13,7 @@
 
 <!-- Hero with GIF (add your own to assets folder) -->
 <p align="center">
-  <img alt="coding" src="https://raw.githubusercontent.com/ManojDhundhalva/ManojDhundhalva/main/assets/coding.gif" width="600"/>
+  <img alt="coding" style="border-radius:20px;" src="./assets/coding.gif" width="600"/>
 </p>
 
 <p align="center">
@@ -156,5 +156,5 @@
 
 <!-- Footer GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManojDhundhalva/ManojDhundhalva/main/assets/wave.gif" width="200" />
+  <img src="./assets/wave.gif" width="100" />
 </p>
