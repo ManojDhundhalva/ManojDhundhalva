@@ -20,9 +20,6 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ManojDhundhalva">
-    <img src="https://komarev.com/ghpvc/?username=ManojDhundhalva&style=for-the-badge" alt="profile views"/>
-  </a>
   <a href="https://github.com/ManojDhundhalva">
     <img src="https://img.shields.io/badge/GitHub-@ManojDhundhalva-181717?logo=github&style=for-the-badge" alt="GitHub"/>
   </a>
